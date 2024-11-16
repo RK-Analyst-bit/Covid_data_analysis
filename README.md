@@ -8,7 +8,8 @@
 ## Exploratory Data Analysis (EDA)
 ## Trend analysis with interactive and static visualizations
 ## Insights into confirmed cases, recoveries, and fatalities
-## Libraries Used
+
+# Libraries Used
 ## Pandas
 ## NumPy
 ## Matplotlib
